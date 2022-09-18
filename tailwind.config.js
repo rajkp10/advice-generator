@@ -3,6 +3,11 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      screens: {
+        sm: "375px",
+        md: "768px",
+        lg: "1440px",
+      },
       colors: {
         LightCyan: "hsl(193, 38%, 86%)",
         NeonGreen: "hsl(150, 100%, 66%)",
