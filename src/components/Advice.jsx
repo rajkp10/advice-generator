@@ -3,7 +3,9 @@ import React from "react";
 function Advice({ advice }) {
   return (
     <div className="w-auto">
-      <h2 className="text-2xl text-white">"{advice}"</h2>
+      <h2 className="text-center text-2xl text-white">
+        <q>{advice}</q>
+      </h2>
     </div>
   );
 }
