@@ -1,3 +1,19 @@
+# Live Demo
+
+https://advice-generator-rajkp10.netlify.app/
+
+# About Project
+
+Advice Generator Task from Frontend Mentor Website.
+
+# Tools
+
+This site is created using ReactJS, Tailwind CSS and AdviseSlip JSON API.
+
+# Preview
+
+![advice-generator](https://user-images.githubusercontent.com/96880670/190889273-7cf8b92c-1892-4a7e-aa9c-492c9724d39c.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
